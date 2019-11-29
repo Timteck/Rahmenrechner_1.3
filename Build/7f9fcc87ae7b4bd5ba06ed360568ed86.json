@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Rahmenrechner",
+"productVersion": "0.1",
+"dataUrl": "ee1cf13f1d84d2c1a51781cd630e58d2.unityweb",
+"wasmCodeUrl": "b1ce59ffdada0abebb92c809b77aa60a.unityweb",
+"wasmFrameworkUrl": "59631b0738458ed86b1e52601d0ffa67.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
